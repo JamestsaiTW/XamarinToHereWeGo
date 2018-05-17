@@ -1,13 +1,14 @@
 # XamarinToHereWeGo
-## 透過 Xamarin 技術如何讓 App 介接到 HereWeGo App
+## 如何透過 Xamarin 技術如何讓 App 轉跳介接到 HERE WeGo 導航
 
-What is HereWeGo
+### What is HERE WeGo?  
+HERE WeGo是一款由諾基亞爲 Android、iOS 和 Windows Phone 平臺開發的地圖移動應用程式。 
 
-![HereWeGo ScreenShot](https://raw.githubusercontent.com/Jatsai/XamarinToHereWeGo/8187b1866061d4fed325c7c1008d0c481df7b89a/Images/HereWeGoApp.jpg)
+![HERE WeGo ScreenShot](https://raw.githubusercontent.com/Jatsai/XamarinToHereWeGo/8187b1866061d4fed325c7c1008d0c481df7b89a/Images/HereWeGoApp.jpg)
 
 * Xamarin.Native
-    1. 如何在 Android 如何介接到 HereWeGo App 導航
-    2. 如何在 iOS 如何介接到 HereWeGo App 導航
+    * 如何在 Android 轉跳介接到 HERE WeGo 導航。
+    * 如何在 iOS 轉跳介接到 HERE WeGo 導航。
 
 * Xamarin.Forms
-    1. 如何介接到 HereWeGo App 導航
+    * 如何轉跳介接到 HERE WeGo 導航。
