@@ -8,20 +8,41 @@
     android:minHeight="25px"
     android:orientation="vertical">
     <TextView
-        android:text="Go To Navigate"
+        android:text="Navigating Taipei 101"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textView1"
         android:textAlignment="center" />
+    <ImageView
+        android:src="@drawable/googlemap"
+        android:layout_width="40pt"
+        android:layout_gravity="center"
+        android:layout_height="40pt"
+        android:foregroundGravity="center_horizontal" />
     <Button
         android:text="By Google Map"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/GoogleMapButton" />
+    <ImageView
+        android:src="@drawable/herewego"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="40pt"
+        android:layout_height="40pt" />
     <Button
         android:text="By HereWeGo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/HereWeGoButton" />
+    <ImageView
+        android:src="@drawable/waze"
+        android:layout_width="40pt"
+        android:layout_height="40pt"
+        android:layout_gravity="center_horizontal" />
+    <Button
+        android:text="By Waze"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/WazeButton" />
 </LinearLayout>
