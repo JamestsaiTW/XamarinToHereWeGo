@@ -12,3 +12,19 @@ HERE WeGo是一款由諾基亞爲 Android、iOS 和 Windows Phone 平臺開發�
 
 * Xamarin.Forms
     * 如何轉跳介接到 HERE WeGo 導航。
+
+
+### Reference:  
+* Google Map for Android:  
+      <a href="https://developers.google.com/maps/documentation/android-api/intents" target="_blank">https://developers.google.com/maps/documentation/android-api/intents</a>
+
+* Google Map for iOS:  
+      <a href="https://developers.google.com/maps/documentation/ios-sdk/urlscheme" target="_blank">https://developers.google.com/maps/documentation/ios-sdk/urlscheme</a>
+      
+* Here WeGo:  
+      <a href="https://developer.here.com/documentation/mobility-on-demand-toolkit/topics/navigation.html" target="_blank">https://developer.here.com/documentation/mobility-on-demand-toolkit/topics/navigation.html</a>
+
+* Waze:  
+      <a href="https://developers.google.com/waze/deeplinks/" target="_blank">https://developers.google.com/waze/deeplinks/</a>
+      
+      
