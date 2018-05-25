@@ -2,7 +2,7 @@
 ## 如何透過 Xamarin 技術如何讓 App 轉跳介接到 HERE WeGo 導航
 
 ### What is HERE WeGo?  
-HERE WeGo是一款由諾基亞爲 Android、iOS 和 Windows Phone 平臺開發的地圖移動應用程式。 
+HERE WeGo 是一款早期由 Nokia 爲 Android、iOS 和 Windows Phone 平臺開發的地圖移動應用程式，後來 Nokia 經過轉型與分拆業務後，現在由 HERE 公司獨立負責維運。 
 
 ![HERE WeGo ScreenShot](https://raw.githubusercontent.com/Jatsai/XamarinToHereWeGo/8187b1866061d4fed325c7c1008d0c481df7b89a/Images/HereWeGoApp.jpg)
 
@@ -26,5 +26,5 @@ HERE WeGo是一款由諾基亞爲 Android、iOS 和 Windows Phone 平臺開發�
 
 * Waze:  
       <a href="https://developers.google.com/waze/deeplinks/" target="_blank">https://developers.google.com/waze/deeplinks/</a>
-      
+
       
