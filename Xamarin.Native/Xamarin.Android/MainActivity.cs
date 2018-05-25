@@ -12,7 +12,7 @@ namespace Xamarin.Android
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
-        private string googlePlayStoreBaseUrl = "https://play.google.com/store/apps/details?id=";
+        private string googlePlayStoreBaseUrl = "market://details?id=";
         private string targetLatLngStr = "25.033952,121.56447";
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -48,7 +48,7 @@ namespace Xamarin.Android
                 var packageName = "com.here.app.maps";
                 if (CheckAppIsInstalled(packageName))
                 {
-                    var intentUriStr = $"here.directions://v1.0/mylocation/{targetLatLngStr}&m=d";
+                    var intentUriStr = $"here.directions://v1.0/mylocation/{targetLatLngStr}?&m=d";
                     //Ref:
                     //https://developer.here.com/documentation/mobility-on-demand-toolkit/topics/navigation.html
                     //d for driving
